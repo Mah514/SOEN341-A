@@ -23,5 +23,7 @@ BannerOption = "-b" | "-banner" : Print the banner of the program
 
 
 When the verbose option is enabled, the execution of:
+
 • copy prints a dot (.) for every character copied from the source to the destination file.
+
 • wc prints c for every character found, w for every word found, and l for every line found.
