@@ -1,0 +1,10 @@
+/out/
+/src/*.class
+*.class
+*.xml
+
+copy.java
+charcount.java
+wordcount.java
+linecount.java
+wc.java
