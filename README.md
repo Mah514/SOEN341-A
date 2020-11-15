@@ -1,5 +1,5 @@
 # SOEN341-A
-This is a command-line program which demonstrates various software design strategies while performing simple tasks.
+This is a command-line program which demonstrates various software design strategies (strategy, template method, factory, and composite) while performing simple tasks.
 The program performs the following tasks:
 
 copy: Copy sourceFile to destinationFile
