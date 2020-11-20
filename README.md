@@ -1,4 +1,4 @@
-# SOEN341-A
+# wcOO
 This is a command-line program which demonstrates various software design strategies (strategy, template method, factory, and composite) while performing simple tasks.
 The program performs the following tasks:
 
